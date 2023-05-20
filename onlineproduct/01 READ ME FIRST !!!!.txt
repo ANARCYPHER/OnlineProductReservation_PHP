@@ -1,0 +1,28 @@
+ONLINE PRODUCT RESERVATION SYSTEM IN PHP
+
+**CUSTOMER LOGIN** 
+
+Email ID : harryden@gmail.com
+Password : pass
+
+**ADMIN LOGIN**
+
+Username : cj
+Password : admin
+
+
+**Thanks To Welmarie Ann Gamboa**
+
+DON'T FORGET TO CREATE A DATABASE NAMING "cj_handgunner" AND IMPORT THE SQL FILE.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+***** FOR MORE PROJECTS :- https://code-projects.org/ *****
+
+#THANK YOU FOR DOWNLOADING

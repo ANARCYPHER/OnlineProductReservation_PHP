@@ -1,0 +1,17 @@
+MIDlet-Jar-Size: 392687
+MIDlet-Jar-URL: 3DNineBall.jar
+Manifest-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Name: 3D 9-Ball
+Created-By: 1.5.0_12 (Sun Microsystems Inc.)
+MIDlet-Icon: /icon/icon.png
+MIDlet-Vendor: M Bounce Ltd.
+MIDlet-Permissions: javax.microedition.io.Connector.bluetooth.client,j
+
+
+
+MIDlet-1: 3D 9Ball, /icon/icon.png, game.GameMIDlet
+MIDlet-Version: 2.0.01
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Description: 3D 9-Ball
+

@@ -1,0 +1,13 @@
+.wrapper {    border: 1px solid #000000;   margin: 0 auto;    width: 775px;}
+
+.body {  color: #b9cd8d;  font-family: handgun;  background: url("..template/images/background.gif") repeat scroll top center transparent; margin: 0 auto; padding:0;}
+
+.holder {  margin: 0 auto;    width: 775px;  margin: 0 auto;    width: 950px;  }
+
+.header {  height: 240px; width: 775px; background: url("template/images/header1.jpg") no-repeat scroll top center transparent;}
+
+.content {  font-family: arial; background: url("template/images/content_bg.jpg") repeat-y scroll top center transparent;  padding: 10px;    width: 755px; float: left;  } 
+
+.quick-access { background: url("template/images/menu.jpg") no-repeat scroll top center transparent; height: 115px; width: 775px; float: right; }
+
+.form{width: 500px; margin:auto;} 
